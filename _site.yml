@@ -54,11 +54,18 @@ navbar:
     - text: "Resources"
       href: resources.html
     - text: "Papers for group work"
-      href: "Papers for group work/Calcagno et 2022 Functional Ecology.pdf"
-      href: "Papers for group work/DeLong Lyon 2020 PeerJ.pdf"
-      href: "Papers for group work/OGorman 2023 NatureEE.pdf"
-      href: "Papers for group work/Van De Walle Journal of Animal Ecology - 2023.pdf"
-      href: "Papers for group work/Yoshida et al 2003 Nature.pdf"
+      href: "#"
+      menu:
+        - text: "Calcagno et 2022 Functional Ecology"
+          href: "Papers for group work/Calcagno et 2022 Functional Ecology.pdf"
+        - text: "DeLong & Lyon 2020 PeerJ"
+          href: "Papers for group work/DeLong Lyon 2020 PeerJ.pdf"
+        - text: "O'Gorman et al. 2023 Nature Ecology & Evolution"
+          href: "Papers for group work/OGorman 2023 NatureEE.pdf"
+        - text: "Van De Walle et al. 2023 Journal of Animal Ecology"
+          href: "Papers for group work/Van De Walle Journal of Animal Ecology - 2023.pdf"
+        - text: "Yoshida et al. 2003 Nature"
+          href: "Papers for group work/Yoshida et al 2003 Nature.pdf"
 output:
   distill::distill_article:
     css: css/theme.css
