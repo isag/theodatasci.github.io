@@ -53,6 +53,12 @@ navbar:
         #href: "courses/networks/2022_05_cesab_Kefi.pdf"
     - text: "Resources"
       href: resources.html
+    - text: "Papers for group work"
+      href: "Papers for group work/Calcagno et 2022 Functional Ecology.pdf"
+      href: "Papers for group work/DeLong Lyon 2020 PeerJ.pdf"
+      href: "Papers for group work/OGorman 2023 NatureEE.pdf"
+      href: "Papers for group work/Van De Walle Journal of Animal Ecology - 2023.pdf"
+      href: "Papers for group work/Yoshida et al 2003 Nature.pdf"
 output:
   distill::distill_article:
     css: css/theme.css
