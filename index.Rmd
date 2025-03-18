@@ -20,7 +20,7 @@ author:
   - name: "Isabelle Gounand"
     url: https://isabellegounand.wordpress.com/
     affiliation: CNRS iEES-Paris
-    affiliation_url: https://iees-paris.fr/teams/interaction-networks/
+    affiliation_url: https://iees-paris.fr/teams/dynamics-of-ecological-networks/
     orcid_id: 0000-0002-0675-3973
   - name: "Claire Jacquet"
     url: https://clairejacquet.weebly.com/
@@ -34,8 +34,8 @@ author:
     orcid_id: 0000-0002-9678-7770
   - name: "François Massol"
     url: https://sites.google.com/a/polytechnique.org/francoismassol/home
-    affiliation: CNRS CIIL
-    affiliation_url: https://www.ciil.fr/
+    affiliation: CNRS iEES-Paris
+    affiliation_url: https://iees-paris.fr/teams/dynamics-of-ecological-networks/
     orcid_id: 0000-0002-4098-955X
 date: "`r format(Sys.Date(), '%m-%d-%Y')`"
 site: distill::distill_website
